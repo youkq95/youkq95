@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @youkq95
-- 👀 I’m interested in new tech!
-- 🌱 I’m currently learning machine learning/deep learning/drug R&D and everything ...
+- 🌱 Bioinformatics PhD currently working as algorithm engineer. Always seeking ways to expand knowledge and explore new possibilities.
 - 📫 youkq@foxmail.com
 
 <!---
